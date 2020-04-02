@@ -1,0 +1,15 @@
+- title: "Home"
+  url: ""
+- title: "News"
+  url: "news"
+  links:
+    - title: "Archive"
+      url: "archive"
+- title: "Development"
+  url: "development"
+- title: "Links"
+  url: "links"
+- title: "Site"
+  links:
+  - title: "Tags Page"
+    url: "tags"
