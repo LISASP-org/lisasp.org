@@ -1,6 +1,4 @@
-- title: Home
-  url: index.html
 - title: About
-  url: about
+  url: about.html
 - title: Contact
-  url: Contact
+  url: contact.html

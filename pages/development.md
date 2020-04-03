@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Development
-permalink: /development/
+permalink: /development.html
 ---
 
 # Development

@@ -1,6 +1,6 @@
 ---
 title: Links
-permalink: links
+permalink: links.html
 tags: 
 description: Links for lifesaving sports
 ---
