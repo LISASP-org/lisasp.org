@@ -5,7 +5,7 @@ permalink: /about/
 
 # About
 
-lisasp.org stands for **Li**fe**sa**ving**sp**ort and Software Development. We are aiming to improve the competition experience for everyone including athletes, coaches and officials.
+[lisasp.org](https://www.lisasp.org) stands for **Li**fe**sa**ving**sp**ort and Software Development. We are aiming to improve the competition experience for everyone including athletes, coaches and officials.
 
 ## Who we are
 

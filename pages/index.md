@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to Lifesavingsports
 
-lisasp.org stands for **Li**fe**sa**ving**sp**ort and Software Development.
+[lisasp.org](https://www.lisasp.org) stands for **Li**fe**sa**ving**sp**ort and Software Development.
 
 ## The current situation
 
