@@ -13,3 +13,7 @@
   links:
   - title: "Tags Page"
     url: "tags.html"
+- title: "About"
+  url: "about.html"
+- title: "Contact"
+  url: "contact.html"

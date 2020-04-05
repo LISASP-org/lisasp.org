@@ -45,6 +45,9 @@ feedback: false
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
 
+# Link to a privacy policy in footer, uncomment and define if wanted
+# impress: https://domain.com/impress
+
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
