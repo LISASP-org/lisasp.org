@@ -21,4 +21,7 @@ This page is generated using [github pages](https://pages.github.com/) and a mod
 
 Favicon and logo made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon.com](https://www.flaticon.com/). There are also the [original file](/assets/favicons/favicon.svg) and the [license information](/assets/favicons/favicon-license.txt) present.
 
-The favicon-files were generated using a [favicon generator](https://www.favicon-generator.org/).
+The favicons were generated using two favicon generators.
+
+- <https://www.favicon-generator.org/>
+- <https://www.ionos.de/tools/favicon-generator>
