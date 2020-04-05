@@ -26,7 +26,7 @@ excluded_in_search: true
     padding-left: 1.2rem;
 }
 .gh-source:hover {
-    color: yellow;
+    color: #80BBDD;
 }
 .gh-source__icon+.gh-source__repository {
     margin-left: -4.4rem;
@@ -280,7 +280,7 @@ sup {
 }
 
 a {
-    color: #3176d9;
+    color: #0077BB;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
