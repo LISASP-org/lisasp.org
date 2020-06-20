@@ -11,5 +11,5 @@ JAuswertung is a program that analyses and manages the results of contests of th
 
 Author: Dennis Fabri
 
-- Link: https://sourceforge.net/projects/jaus/ (current)
-- Link: https://github.com/dennisfabri/JAuswertung (future)
+- Link: <https://sourceforge.net/projects/jaus/> (current)
+- Link: <https://github.com/dennisfabri/JAuswertung> (future)

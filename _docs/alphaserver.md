@@ -11,4 +11,4 @@ Read data from Omage timekeeping devices
 
 Author: Dennis Fabri
 
-- Link: https://github.com/dennisfabri/AlphaServer
+- Link: <https://github.com/dennisfabri/AlphaServer>
