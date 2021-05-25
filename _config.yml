@@ -30,8 +30,8 @@ url: "https://www.lisasp.org" # the base hostname & protocol for your site
 domain: "lisasp.org"
 
 # Social (First three Required)
-repo: "https://github.com/dennisfabri/lisasp.org"
-github_user: "dennisfabri"
+repo: "https://github.com/LISASP-org/lisasp.org"
+github_user: "LISASP-org"
 github_repo: "lisasp.org"
 
 # Optional
