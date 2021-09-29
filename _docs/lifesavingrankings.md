@@ -5,7 +5,7 @@ tags: github python
 description: Lifesaving Rankings tracks results for lifesaving pool competitions
 ---
 
-# Lifesaving Rankings
+## Lifesaving Rankings
 
 Lifesaving Rankings tracks results for lifesaving pool competitions
 

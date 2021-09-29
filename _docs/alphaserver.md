@@ -5,7 +5,7 @@ tags: github java
 description: Read data from Omage timekeeping devices
 ---
 
-# JAuswertung
+## JAuswertung
 
 Read data from Omage timekeeping devices
 

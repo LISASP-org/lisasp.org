@@ -5,7 +5,7 @@ tags: github php
 description: A parser to convert pdf to results for Lifesaving Rankings
 ---
 
-# Competition Parser
+## Competition Parser
 
 A parser to convert pdf to results for Lifesaving Rankings
 
