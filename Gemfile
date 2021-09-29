@@ -11,7 +11,7 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 # gem 'jekyll', '3.8.5'
 
-gem 'nokogiri', '1.11.5'
+gem 'nokogiri', '>= 1.12.5'
 gem 'wdm', '>= 0.1.1' if Gem.win_platform?
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
