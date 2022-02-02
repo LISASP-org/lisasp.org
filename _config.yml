@@ -44,10 +44,11 @@ dockerhub:
 feedback: false
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-# privacy: https://lisasp.org/home/privacy.html
+#privacy: https://lisasp.org/privacy.html
+privacy:
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-impress: https://lisasp.prg/home/impress.html
+impress: https://lisasp.prg/impress.html
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
