@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem 'jekyll', '3.8.5'
+gem 'jekyll', '3.9.0'
 
 gem 'nokogiri', '>= 1.12.5'
 gem 'wdm', '>= 0.1.1' if Gem.win_platform?
@@ -24,10 +24,12 @@ gem 'wdm', '>= 0.1.1' if Gem.win_platform?
 group :jekyll_plugins do
   gem "github-pages"
 #   gem 'jekyll-github-metadata", "~> 1.0'
-#   gem 'jekyll-feed'
-#   gem 'jekyll-sitemap'
+   gem 'jekyll-feed'
+   gem 'jekyll-redirect-from'
+   gem 'jekyll-seo-tag'
+   gem 'jekyll-sitemap'
 #   gem 'jekyll-paginate'
-#   gem 'jekyll-seo-tag'
+   gem 'jekyll-external-links', :path => '_plugins/jekyll-external-links/'
 end
 
 # Install:

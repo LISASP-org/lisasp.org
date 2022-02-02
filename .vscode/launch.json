@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome",
-            "url": "http://localhost:4000",
+            "url": "http://localhost:4000/",
             "webRoot": "${workspaceFolder}"
         },
         {
@@ -16,14 +16,14 @@
             "request": "launch",
             "reAttach": true,
             "name": "Launch Firefox",
-            "url": "http://localhost:4000",
+            "url": "http://localhost:4000/",
             "webRoot": "${workspaceFolder}"
         },
         {
             "type": "edge",
             "request": "launch",
             "name": "Launch Edge",
-            "url": "http://localhost:4000",
+            "url": "http://localhost:4000/",
             "webRoot": "${workspaceFolder}"
         }
     ]

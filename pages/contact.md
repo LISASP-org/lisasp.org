@@ -1,6 +1,8 @@
 ---
 title: Contact
 permalink: /contact.html
+redirect_from:
+  - /impress.html
 ---
 
 # Contact

@@ -6,29 +6,34 @@
 <ul class="list-inline mb-0">  
   <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Twitter" data-original-title="Twitter">
     <a class="text-white" target="_blank" href="https://twitter.com/{{ site.twitter }}">
-      <i class="fab fa-twitter"></i>
+              <em class="fab fa-twitter"></em>
     </a>
   </li>
 </ul>
 {% endif %}
 </div>
-<!--
-<div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
-<ul class="list-inline mb-0">  
-  <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
-    <a class="text-white" target="_blank" href="{{ site.repo }}">
-      <i class="fab fa-github"></i>
+      <div class="col-12 col-sm-4 text-left ">
+        <p>
+          <small><a href="https://www.ej-technologies.com/products/install4j/overview.html" target="_blank" rel="noopener noreferrer">Install4J - a multi-platform installer builder<span class="ico-ext"><em class="fas fa-external-link-square-alt"></em></span></a></small>
+          <small> - <a href="https://www.ej-technologies.com/products/jprofiler/overview.html" target="_blank" rel="noopener noreferrer">JProfiler - Java profiler<span class="ico-ext"><em class="fas fa-external-link-square-alt"></em></span></a></small>
+        </p>
+        <p>
+          <small class="text-white">© {{ site.author }}</small>
+          {% if site.privacy %}<small>-  <a href="{{ site.baseurl }}/{{ site.impress }}">Impressum</a></small>{% endif %}
+          {% if site.impress %}<small>-  <a href="{{ site.baseurl }}/{{ site.privacy }}">Datenschutzerkl&auml;rung</a></small>{% endif %}
+          {% if site.search %}<small>-  <a href="{{ site.baseurl }}/{{ site.search }}">Suche</a></small>{% endif %}
+        </p>
+     </div>
+     <div class="col-12 col-sm-4 text-right py-2 order-sm-2 justify-content-end">
+	        <a class="gh-source" data-gh-source="github" href="{{ site.repo }}" title="Go to repository" data-md-state="done">
+            <div class="gh-source__repository">
+              <div class="fab fa fa-github fa-2x" style="padding-right:20px; float:left; margin-top:5px"></div>
+              {{ site.github_user }}/{{ site.github_repo }}
+            </div>
     </a>
-  </li>
-</ul>
--->
 </div>
-<div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-  <small class="text-white">© 2020 {{ site.author }} All Rights Reserved</small>
-  {% if site.privacy %}<small class="ml-1"><a href="{{ site.privacy }}" target="_blank">Impress</a></small>{% endif %}
-  {% if site.impress %}<small class="ml-1"><a href="{{ site.impress }}" target="_blank">Privacy Policy</a></small>{% endif %}
-  <!--<p class="text-white"><a class='text-white' href="/about/">About lisasp.org</a></p>	-->
       </div>
+
     </div>
   </div>
 </footer>

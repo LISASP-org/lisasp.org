@@ -1,0 +1,10 @@
+---
+layout: null
+excluded_in_search: true
+---
+
+$site-color : {{ site.color }};
+
+@import "_includes/css/main.scss";
+@import "_includes/css/palette.scss";
+@import "_includes/css/custom.scss";
